@@ -13,7 +13,7 @@ MEDIUM,Number of Good Leaf Nodes Pairs,81.0,0.7177471264367816,https://leetcode.
 MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,81.0,0.6945200779613259,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
 MEDIUM,Find the Substring With Maximum Cost,69.9,0.5684542586750788,https://leetcode.com/problems/find-the-substring-with-maximum-cost,"Array, Hash Table, String, Dynamic Programming"
 MEDIUM,Construct Smallest Number From DI String,69.9,0.8582927253741733,https://leetcode.com/problems/construct-smallest-number-from-di-string,"String, Backtracking, Stack, Greedy"
-MEDIUM,Minimum Swaps to Group All 1's Together II,69.9,0.6551733570937285,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii,"Array, Sliding Window"
+D MEDIUM,Minimum Swaps to Group All 1's Together II,69.9,0.6551733570937285,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii,"Array, Sliding Window"
 D MEDIUM,Longest Substring Without Repeating Characters,69.9,0.36936165118444625,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
 D HARD,Reverse Nodes in k-Group,69.9,0.6304371463092185,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
 D MEDIUM,Count Good Nodes in Binary Tree,69.9,0.735000400672318,https://leetcode.com/problems/count-good-nodes-in-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
