@@ -20,4 +20,4 @@ MEDIUM,Count Good Nodes in Binary Tree,69.9,0.735000400672318,https://leetcode.c
 MEDIUM,Trim a Binary Search Tree,69.9,0.6637360647202037,https://leetcode.com/problems/trim-a-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
 MEDIUM,Remove K Digits,69.9,0.34940483856557913,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
 MEDIUM,Daily Temperatures,69.9,0.6736509039874431,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Maximum Difference Between Node and Ancestor,69.9,0.7806028577020944,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor,"Tree, Depth-First Search, Binary Tree"
+D MEDIUM,Maximum Difference Between Node and Ancestor,69.9,0.7806028577020944,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor,"Tree, Depth-First Search, Binary Tree"
