@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Move Zeroes,100.0,0.6280403790240795,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,Add Two Numbers,95.0,0.4622521516983059,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,Largest Number,95.0,0.4128053161945387,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,88.9,0.5286406766600661,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list,"Hash Table, Linked List"
+D EASY,Move Zeroes,100.0,0.6280403790240795,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+D MEDIUM,Add Two Numbers,95.0,0.4622521516983059,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+D MEDIUM,Largest Number,95.0,0.4128053161945387,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+D MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,88.9,0.5286406766600661,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list,"Hash Table, Linked List"
 D MEDIUM,Maximum Twin Sum of a Linked List,88.9,0.8147472951229525,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
 D MEDIUM,Reverse Odd Levels of Binary Tree,81.0,0.866394464658027,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
 D MEDIUM,Find Bottom Left Tree Value,81.0,0.7175109020252438,https://leetcode.com/problems/find-bottom-left-tree-value,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
